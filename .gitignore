@@ -1,0 +1,6 @@
+node_modules
+result
+yarn.lock
+.DS_Store
+Thumbs.db
+.git
